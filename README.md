@@ -24,6 +24,7 @@ Most of my production work is in FastAPI + PostgreSQL, applying clean architectu
 - **Inventory system** — multi-tenant inventory/ordering platform for a restaurant client, in production. FastAPI, PostgreSQL, Docker, CloudPRNT thermal printing integration, multi-tenant role architecture.
 - **Legal Document Analyzer** — bilingual (English/Nepali) legal clause classification and risk detection. XLM-RoBERTa, GNN-based interlock checking, FastAPI + React.
 - **Heritage Damage Assessment** — temple detection and structural damage classification using YOLO and a mixture-of-experts model (ResNet50/EfficientNet-B4/ViT-B16).
+- **DHT Scheduler** — a NUMA-aware task scheduler in C++ that routes tasks via consistent hashing (DHT), communicates between cores through lock-free SPSC ring buffers, and falls back to hierarchical work stealing across ring, socket, and global tiers when a core goes idle.
 
 ---
 
