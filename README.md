@@ -15,6 +15,7 @@ Computer Engineering student at Kathmandu University, Nepal. I build backend sys
 Most of my production work is in FastAPI + PostgreSQL, applying clean architecture and DDD. 
 <br><br>
 **Currently:** deep in systems fundamentals — Rust and C, moving toward embedded/RTOS/networking.
+
 ---
 
 <p align="center">
