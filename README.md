@@ -19,5 +19,5 @@ Most of my production work is in FastAPI + PostgreSQL, applying clean architectu
 ---
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL">Email</a> · <a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a>
+  <a href="mailto:kafleakash13@gmail.com">Email</a> · <a href="https://linkedin.com/in/akash-kafle">LinkedIn</a>
 </p>
